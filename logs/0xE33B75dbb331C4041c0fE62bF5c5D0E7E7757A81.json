@@ -1,1 +1,9 @@
-{"time":"Thu, 03 Nov 2022 21:33:30 GMT","userAddress":"0xE33B75dbb331C4041c0fE62bF5c5D0E7E7757A81","balanceETH":"1563998999591528","balanceERC20":[{"address":"0x6b175474e89094c44da98b954eedeac495271d0f","balance":"1024","name":"Dai","symbol":"dai","decimals":"18"},{"address":"0xdac17f958d2ee523a2206206994597c13d831ec7","balance":"12765813","name":"Tether","symbol":"usdt","decimals":"6"}]}
+{
+  "time": "Thu, 03 Nov 2022 21:33:30 GMT",
+  "userAddress": "0xE33B75dbb331C4041c0fE62bF5c5D0E7E7757A81",
+  "balanceETH": "1563998999591528",
+  "balanceERC20": [
+    { "address": "0x6b175474e89094c44da98b954eedeac495271d0f", "balance": "1024", "name": "Dai", "symbol": "dai", "decimals": "18" },
+    { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7", "balance": "12765813", "name": "Tether", "symbol": "usdt", "decimals": "6" }
+  ]
+}
