@@ -2,7 +2,7 @@
 
 ## Clone this repository
 ```sh
-gh repo clone senyka0/balance-rest-api
+gh repo clone senyka0/logger
 ```
 ## Then install the dependencies
 ```sh
